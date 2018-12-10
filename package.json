@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-multianalytics",
+  "name": "@livebuzzevents/nuxt-multianalytics",
   "version": "1.0.1",
   "description": "Nuxt module",
   "license": "MIT",
@@ -33,7 +33,7 @@
     ]
   },
   "dependencies": {
-    "vue-multianalytics": "^1.9.7"
+    "vue-multianalytics": "^1.10.0"
   },
   "devDependencies": {
     "nuxt-module-builder": "latest"
